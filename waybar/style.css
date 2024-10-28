@@ -44,7 +44,7 @@ window#waybar {
     padding: 0px 4px 0px 4px;
     border: none;
     background: none;
-    color: @white;
+    color: @green;
 }
 
 #workspaces button:hover {
